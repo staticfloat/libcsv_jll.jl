@@ -1,0 +1,9 @@
+[[libcsv]]
+arch = "x86_64"
+git-tree-sha1 = "2dd39ef7e74b2ddc8f706d8118acad9c047a6f0b"
+libc = "glibc"
+os = "linux"
+
+    [[libcsv.download]]
+    sha256 = "e7e70d431f99a474103e7d1b455d75b5818db10ddf6631e2f4f069d772fe7b57"
+    url = "https://github.com/staticfloat/libcsv_jll.jl/releases/download/libcsv-v0.0.1+1/libcsv.v0.0.1.x86_64-linux-gnu.tar.gz"
